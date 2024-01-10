@@ -790,7 +790,7 @@
 ```
 
 
-### `Get` Task & Sub-task Details(User)
+### `Get` Task & Sub-task Details(Admin)
 
 | API Endpoint          | HTTP Method | Response Code |
 | --------------------- | :---------: | :-----------: |
